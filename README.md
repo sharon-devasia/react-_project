@@ -1,2 +1,2 @@
-# react-_project
+# react_project
 learning react.js
